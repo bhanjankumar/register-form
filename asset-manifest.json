@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/register-form/static/css/main.d1aa0912.chunk.css",
-    "main.js": "/register-form/static/js/main.64e41c61.chunk.js",
-    "main.js.map": "/register-form/static/js/main.64e41c61.chunk.js.map",
+    "main.css": "/register-form/static/css/main.716864b8.chunk.css",
+    "main.js": "/register-form/static/js/main.85ab94dd.chunk.js",
+    "main.js.map": "/register-form/static/js/main.85ab94dd.chunk.js.map",
     "runtime-main.js": "/register-form/static/js/runtime-main.73e2cdde.js",
     "runtime-main.js.map": "/register-form/static/js/runtime-main.73e2cdde.js.map",
     "static/css/2.af3c1da9.chunk.css": "/register-form/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ee566d86.chunk.js": "/register-form/static/js/2.ee566d86.chunk.js",
     "static/js/2.ee566d86.chunk.js.map": "/register-form/static/js/2.ee566d86.chunk.js.map",
     "index.html": "/register-form/index.html",
-    "precache-manifest.3623895af129c74537b8f07562264c95.js": "/register-form/precache-manifest.3623895af129c74537b8f07562264c95.js",
+    "precache-manifest.a83fd48b05cfc5b14a31b534ce3edf99.js": "/register-form/precache-manifest.a83fd48b05cfc5b14a31b534ce3edf99.js",
     "service-worker.js": "/register-form/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/register-form/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.d1aa0912.chunk.css.map": "/register-form/static/css/main.d1aa0912.chunk.css.map",
+    "static/css/main.716864b8.chunk.css.map": "/register-form/static/css/main.716864b8.chunk.css.map",
     "static/js/2.ee566d86.chunk.js.LICENSE.txt": "/register-form/static/js/2.ee566d86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.73e2cdde.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ee566d86.chunk.js",
-    "static/css/main.d1aa0912.chunk.css",
-    "static/js/main.64e41c61.chunk.js"
+    "static/css/main.716864b8.chunk.css",
+    "static/js/main.85ab94dd.chunk.js"
   ]
 }

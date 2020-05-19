@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "702fc7011e5ef3156b4230bd4b346fb1",
+    "revision": "10789f7ee73a54ca3df500bdbd6eb946",
     "url": "/register-form/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/register-form/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ca8be61b3be8f706ac49",
-    "url": "/register-form/static/css/main.d1aa0912.chunk.css"
+    "revision": "7c1b040325df97adb2f3",
+    "url": "/register-form/static/css/main.716864b8.chunk.css"
   },
   {
     "revision": "d0602364a12046211ffb",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/register-form/static/js/2.ee566d86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca8be61b3be8f706ac49",
-    "url": "/register-form/static/js/main.64e41c61.chunk.js"
+    "revision": "7c1b040325df97adb2f3",
+    "url": "/register-form/static/js/main.85ab94dd.chunk.js"
   },
   {
     "revision": "9ef1336703ce91bb8248",
