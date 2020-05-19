@@ -105,7 +105,7 @@ class RegisterComponent extends React.Component{
                             </div>
                             <div class="form-group">
                             <label>Password</label>
-                                <input type="text"  name="password" class="form-control" onKeyUp={(e)=>this.handleEnter(e)} value={this.state.password}  onChange={(e) => this.handleChange(e)}/>
+                                <input type="text" type="password"  name="password" class="form-control" onKeyUp={(e)=>this.handleEnter(e)} value={this.state.password}  onChange={(e) => this.handleChange(e)}/>
                                 <span className="errorMsg">{this.state.passError}</span>
                             </div>
                         </div>
