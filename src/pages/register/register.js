@@ -110,7 +110,7 @@ class RegisterComponent extends React.Component{
                             </div>
                         </div>
                     </div>
-                    <button type="button" class="btnSubmit" onClick={()=>this.validateForm()}><span>Claim your free trial <img src={'/images/caret-right-solid.svg'} /></span></button>
+                    <button type="button" class="btnSubmit" onClick={()=>this.validateForm()}><span>Claim your free trial <img src={'images/caret-right-solid.svg'} /></span></button>
                     <p className="terms">You are agreeing to our <a href="javascript:void(0)">Terms and Service</a></p>
                 </div>
             </div>
